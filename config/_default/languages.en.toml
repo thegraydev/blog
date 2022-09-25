@@ -6,19 +6,19 @@ weight = 1
 rtl = false
 
 title = "The Gray"
-# logo = "img/logo.png"
+logo = "img/site-logo-transparent.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "Jan. 2, 2006"
+dateFormat = "Jan 2, 2006"
 
 [author]
   name = "Devin Gray"
-  image = "img/blowfish_logo.png"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  image = "img/DevinGray-circle.png"
+  headline = "TTRPG Game Master and Fantasy Enthusiast"
+  # bio = "A little bit about you"
   # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+    { email = "devin@thegray.dev" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -45,7 +45,7 @@ dateFormat = "Jan. 2, 2006"
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
-  #   { reddit = "https://reddit.com/user/username" },
+    { reddit = "https://reddit.com/user/thegraydev" },
   #   { researchgate = "https://www.researchgate.net/profile/username" },
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
@@ -56,7 +56,7 @@ dateFormat = "Jan. 2, 2006"
   #   { tiktok = "https://tiktok.com/@username" },
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
-  #   { twitter = "https://twitter.com/username" },
+    { twitter = "https://twitter.com/thegreydev" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   # ]
