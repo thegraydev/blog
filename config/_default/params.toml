@@ -35,19 +35,19 @@ robots = "all"
   showEdit = false
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  showHeadingAnchors = true
+  showHeadingAnchors = false
   showPagination = true
   invertPagination = false
   showReadingTime = false
   showTableOfContents = true
   showTaxonomies = false 
   showWordCount = false
-  showSummary = true
+  showSummary = false
   sharingLinks = [ "twitter", "reddit", "email"]
 
 [list]
   showBreadcrumbs = false
-  showSummary = true
+  showSummary = false
   showTableOfContents = false
   groupByYear = true
 

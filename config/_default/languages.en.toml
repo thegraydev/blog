@@ -14,11 +14,11 @@ dateFormat = "Jan 2, 2006"
 
 [author]
   name = "Devin Gray"
-  image = "img/DevinGray-circle.png"
-  headline = "TTRPG Game Master and Fantasy Enthusiast"
+  image = "img/DevinGray-squareoff.jpg"
+  headline = ""
   # bio = "A little bit about you"
-  # links = [
-    { email = "devin@thegray.dev" },
+  links = [
+    {email = "devin@thegray.dev"},
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -45,7 +45,7 @@ dateFormat = "Jan 2, 2006"
   #   { orcid = "https://orcid.org/userid" },
   #   { patreon = "https://www.patreon.com/username" },
   #   { pinterest = "https://pinterest.com/username" },
-    { reddit = "https://reddit.com/user/thegraydev" },
+     {reddit = "https://reddit.com/user/thegraydev"},
   #   { researchgate = "https://www.researchgate.net/profile/username" },
   #   { slack = "https://workspace.url/team/userid" },
   #   { snapchat = "https://snapchat.com/add/username" },
@@ -59,4 +59,4 @@ dateFormat = "Jan 2, 2006"
     { twitter = "https://twitter.com/thegreydev" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+  ]
