@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-date: 2022-06-13T20:55:37+01:00
+date: 
 draft: false
 
 showDate : false
@@ -11,6 +11,8 @@ showReadingTime : false
 showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
-showSummary : false
+showSummary : true
 sharingLinks : false
 ---
+
+# The page of posts

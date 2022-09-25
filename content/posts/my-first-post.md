@@ -1,6 +1,6 @@
 ---
 title: "My Test Post"
-date: Sep 24, 2022
+date: 2022-09-25
 draft: true
 description: "A test post"
 slug: "test"

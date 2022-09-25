@@ -6,7 +6,7 @@
 theme = "blowfish"
 
 # baseURL = "https://your_domain.com/"
-languageCode = "en"
+# languageCode = "en"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true

@@ -10,7 +10,7 @@ logo = "img/site-logo-transparent.png"
 description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "Jan 2, 2006"
+dateFormat = "Jan 2 2006"
 
 [author]
   name = "Devin Gray"
