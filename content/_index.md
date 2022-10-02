@@ -1,6 +1,6 @@
 ---
 title: "The Gray"
-description: "This is a demo of the Blowfish theme for Hugo."
+description: "About the author Devin Gray"
 ---
 
 {{< lead >}} TTRPG Game Master and Fantasy Enthusiast {{< /lead >}}

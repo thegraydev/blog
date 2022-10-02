@@ -3,10 +3,10 @@ title: "Posts"
 date: 
 draft: false
 
-showDate : false
+showDate : true
 showDateUpdated : false
 showHeadingAnchors : false
-showPagination : false
+showPagination : true
 showReadingTime : false
 showTableOfContents : true
 showTaxonomies : false 
