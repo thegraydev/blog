@@ -59,13 +59,13 @@ robots = "all"
   showTermCount = true
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyB6OURlzO3UNtZAfYZ4nGYsL6R2RQC5g1U"
+  authDomain = "the-gray-blog.firebaseapp.com"
+  projectId = "the-gray-blog"
+  storageBucket = "the-gray-blog.appspot.com"
+  messagingSenderId = "642218646329"
+  appId = "1:642218646329:web:709597eab6d0efb0eaa6e8"
+  measurementId = "G-TB59WMPTH1"
 
 [fathomAnalytics]
   # site = "ABC12345"
