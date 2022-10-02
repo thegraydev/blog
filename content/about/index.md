@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2022-09-27
-draft: true
+draft: false
 description: "About Page"
 slug: "about"
 tags: []

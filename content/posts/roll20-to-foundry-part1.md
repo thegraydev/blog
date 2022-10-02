@@ -3,7 +3,7 @@ title: "Roll20 to Foundry - Making the Switch Part 1"
 date: 2022-09-27
 description: "Switching from Roll20 to FoundryVTT, part 1"
 tags: ["D&D", "5e", "Roll20", "FoundryVTT", "Foundry", "VTT", "TTRPG"]
-draft: true
+draft: false
 summary: "After years on Roll20, I'm finally thinking of making the switch to FoundryVTT"
 ---
 
