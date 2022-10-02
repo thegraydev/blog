@@ -9,7 +9,7 @@ showHeadingAnchors : false
 showPagination : true
 showReadingTime : false
 showTableOfContents : true
-showTaxonomies : false 
+showTaxonomies : true 
 showWordCount : false
 showSummary : true
 sharingLinks : true
