@@ -5,7 +5,7 @@
 # declare theme
 theme = "blowfish"
 
-# baseURL = "https://your_domain.com/"
+baseURL = "https://thegray.dev/"
 # languageCode = "en"
 defaultContentLanguage = "en"
 
