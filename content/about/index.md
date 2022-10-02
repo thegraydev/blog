@@ -4,7 +4,7 @@ date: 2022-09-27
 draft: false
 description: "About Page"
 slug: "about"
-tags: []
+tags: ["about", "author"]
 ---
 
 # About Me
