@@ -15,4 +15,3 @@ showSummary : true
 sharingLinks : false
 ---
 
-# The page of posts
