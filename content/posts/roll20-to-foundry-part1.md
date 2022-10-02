@@ -1,5 +1,5 @@
 ---
-title: "Roll20 to Foundry - Making the Switch Part 1"
+title: "Roll20 to Foundry - Making the Switch Part 1: Why Switch?"
 date: 2022-09-27
 description: "Switching from Roll20 to FoundryVTT, part 1"
 tags: ["D&D", "5e", "Roll20", "FoundryVTT", "Foundry", "VTT", "TTRPG"]
