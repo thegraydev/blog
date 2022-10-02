@@ -12,6 +12,6 @@ showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
 showSummary : true
-sharingLinks : false
+sharingLinks : true
 ---
 

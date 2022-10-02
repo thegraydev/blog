@@ -43,7 +43,7 @@ robots = "all"
   showTableOfContents = true
   showTaxonomies = false 
   showWordCount = false
-  showSummary = false
+  showSummary = true
   sharingLinks = [ "twitter", "reddit", "email"]
 
 [list]
